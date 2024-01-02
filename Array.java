@@ -16,8 +16,13 @@ public static void main(String[] args) {
 		sum+=a[i];
 	}
 	System.out.println("Sum of the array:"+sum);
+	System.out.println("Hi iam developer");
+	System.out.println("I Have Worked In Development Branch");
 	System.out.println("work done by QA");
 	System.out.println("code running in local machine");
+
+	
+
 
 }
 }
