@@ -16,6 +16,8 @@ public static void main(String[] args) {
 		sum+=a[i];
 	}
 	System.out.println("Sum of the array:"+sum);
+	System.out.println("work done by QA");
+	System.out.println("code running in local machine");
 
 }
 }
